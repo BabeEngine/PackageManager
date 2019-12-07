@@ -2,7 +2,8 @@
    "pkgs" : [
       {
          "name":"baby_xlua",
-         "repo":"github.com/BabyEngine/baby_xlua"
+         "repo":"github.com/BabyEngine/baby_xlua",
+         "desc":"<color='red'>Hello World</color>"
       }
    ]
 }
