@@ -1,8 +1,23 @@
 {
    "pkgs" : [
       {
-         "name":"baby_xlua",
-         "repo":"github.com/BabyEngine/baby_xlua",
+         "name":"baby_dummy1",
+         "repo":"github.com/BabyEngine/baby_dummy",
+         "desc":"<color='red'>Hello World</color>"
+      },
+      {
+         "name":"baby_dummy2",
+         "repo":"github.com/BabyEngine/baby_dummy",
+         "desc":"<color='red'>Hello World</color>"
+      }
+      {
+         "name":"baby_dummy3",
+         "repo":"github.com/BabyEngine/baby_dummy",
+         "desc":"<color='red'>Hello World</color>"
+      }
+      {
+         "name":"baby_dummy4",
+         "repo":"github.com/BabyEngine/baby_dummy",
          "desc":"<color='red'>Hello World</color>"
       }
    ]
