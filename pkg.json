@@ -1,5 +1,8 @@
 {
    "pkgs" : {
-     "baby_xlua":"github.com/BabyEngine/baby_xlua"
+      {
+         "name":"baby_xlua",
+         "repo":"github.com/BabyEngine/baby_xlua"
+      }
    }
 }
