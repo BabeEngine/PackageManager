@@ -1,8 +1,8 @@
 {
    "pkgs" : [
       {
-         "name":"baby_dummy1",
-         "repo":"github.com/BabyEngine/baby_dummy",
+         "name":"PackageTemplate",
+         "repo":"github.com/BabyEngine/PackageTemplate",
          "desc":"<color='red'>Hello World</color>"
       },
       {
